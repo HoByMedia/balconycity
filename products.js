@@ -595,7 +595,7 @@ export const products = [
   {
     id: "10",
     resName: "citybalcony",
-    name: "سلطة الشمندر",
+    name: "/nسلطة الشمندر",
     name2: "Beetroot Salad",
     price: "2.50",
     description: "",
@@ -607,7 +607,7 @@ export const products = [
   {
     id: "56",
     resName: "citybalcony",
-    name: "\u062a\u0628\u0648\u0644\u0629",
+    name: "\u062a\u0628\u0648\u0644\u0629/n",
     name2: "Tabbouleh",
     price: "3.00",
     description: "خس، بندورة، جرجير",
